@@ -1,0 +1,13 @@
+{
+  "products": [
+    {
+      "productId": "123",
+      "title": "phone",
+      "brand": "redmi",
+      "price": "12000",
+      "description": "redmi phone",
+      "thumbnail": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-10-.jpg",
+      "id": 1
+    }
+  ]
+}

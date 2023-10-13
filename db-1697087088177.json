@@ -1,0 +1,130 @@
+{
+  "products": [
+    {
+      "productId": "1",
+      "title": "iphone",
+      "brand": "apple",
+      "price": "100000",
+      "description": "an apple phone",
+      "thumbnail": "https://m.media-amazon.com/images/I/51rHstLKx4L.AC_SS300.jpg",
+      "id": 1
+    },
+    {
+      "productId": "1",
+      "title": "iphone",
+      "brand": "apple",
+      "price": "100000",
+      "description": "an apple phone",
+      "thumbnail": "https://m.media-amazon.com/images/I/51rHstLKx4L.AC_SS300.jpg",
+      "id": 2
+    },
+    {
+      "productId": "123",
+      "title": "phone",
+      "brand": "redmi",
+      "price": "120000",
+      "description": "phone",
+      "thumbnail": "data:image/png;base64,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",
+      "id": 3
+    },
+    {
+      "productId": "124",
+      "title": "android phone",
+      "brand": "Redmi",
+      "price": "12,000",
+      "description": "It is a redmi phone with cost ranges 12000",
+      "thumbnail": "https://www.amazon.in/Redmi-Pastel-Blue-4GB-128GB/dp/B0C9JD8324/ref=asc_df_B0C9JD8324/?tag=googleshopdes-21&linkCode=df0&hvadid=666255945735&hvpos=&hvnetw=g&hvrand=3838197713059773555&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9152657&hvtargid=pla-2194803070030&gclid=Cj0KCQjwj5mpBhDJARIsAOVjBdpjTxZpdXrjixX56MYtpUnMLGAjdDX1rkyWZCKm-psiiSRRgr1UJx8aAhsYEALw_wcB&th=1",
+      "id": 4
+    },
+    {
+      "productId": "124",
+      "title": "android phone",
+      "brand": "Redmi",
+      "price": "12,000",
+      "description": "It is a redmi phone with cost ranges 12000",
+      "thumbnail": "https://www.amazon.in/Redmi-Pastel-Blue-4GB-128GB/dp/B0C9JD8324/ref=asc_df_B0C9JD8324/?tag=googleshopdes-21&linkCode=df0&hvadid=666255945735&hvpos=&hvnetw=g&hvrand=3838197713059773555&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9152657&hvtargid=pla-2194803070030&gclid=Cj0KCQjwj5mpBhDJARIsAOVjBdpjTxZpdXrjixX56MYtpUnMLGAjdDX1rkyWZCKm-psiiSRRgr1UJx8aAhsYEALw_wcB&th=1",
+      "id": 5
+    },
+    {
+      "productId": "123",
+      "title": "android phone",
+      "brand": "Redmi",
+      "price": "12,000",
+      "description": "It is a redmi phone with cost ranges 12000",
+      "thumbnail": "https://www.amazon.in/Redmi-Pastel-Blue-4GB-128GB/dp/B0C9JD8324/ref=asc_df_B0C9JD8324/?tag=googleshopdes-21&linkCode=df0&hvadid=666255945735&hvpos=&hvnetw=g&hvrand=3838197713059773555&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9152657&hvtargid=pla-2194803070030&gclid=Cj0KCQjwj5mpBhDJARIsAOVjBdpjTxZpdXrjixX56MYtpUnMLGAjdDX1rkyWZCKm-psiiSRRgr1UJx8aAhsYEALw_wcB&th=1",
+      "id": 6
+    },
+    {
+      "productId": "123",
+      "title": "Android phone",
+      "brand": "Redmi 12",
+      "price": "12000",
+      "description": "It is an android phone ",
+      "thumbnail": "https://www.amazon.in/Redmi-Pastel-Blue-4GB-128GB/dp/B0C9JD8324/ref=asc_df_B0C9JD8324/?tag=googleshopdes-21&linkCode=df0&hvadid=666255945735&hvpos=&hvnetw=g&hvrand=3838197713059773555&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9152657&hvtargid=pla-2194803070030&gclid=Cj0KCQjwj5mpBhDJARIsAOVjBdpjTxZpdXrjixX56MYtpUnMLGAjdDX1rkyWZCKm-psiiSRRgr1UJx8aAhsYEALw_wcB&th=1",
+      "id": 7
+    },
+    {
+      "productId": "123",
+      "title": "Android phone",
+      "brand": "Redmi12",
+      "price": "12000",
+      "description": "its an android phone",
+      "thumbnail": "https://www.amazon.in/Redmi-Pastel-Blue-4GB-128GB/dp/B0C9JD8324/ref=asc_df_B0C9JD8324/?tag=googleshopdes-21&linkCode=df0&hvadid=666255945735&hvpos=&hvnetw=g&hvrand=3838197713059773555&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9152657&hvtargid=pla-2194803070030&gclid=Cj0KCQjwj5mpBhDJARIsAOVjBdpjTxZpdXrjixX56MYtpUnMLGAjdDX1rkyWZCKm-psiiSRRgr1UJx8aAhsYEALw_wcB&th=1",
+      "id": 8
+    },
+    {
+      "productId": "123",
+      "title": "Android phone",
+      "brand": "Redmi12",
+      "price": "12,000",
+      "description": "phone",
+      "thumbnail": "https://www.amazon.in/Redmi-Pastel-Blue-4GB-128GB/dp/B0C9JD8324/ref=asc_df_B0C9JD8324/?tag=googleshopdes-21&linkCode=df0&hvadid=666255945735&hvpos=&hvnetw=g&hvrand=3838197713059773555&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9152657&hvtargid=pla-2194803070030&gclid=Cj0KCQjwj5mpBhDJARIsAOVjBdpjTxZpdXrjixX56MYtpUnMLGAjdDX1rkyWZCKm-psiiSRRgr1UJx8aAhsYEALw_wcB&th=1",
+      "id": 9
+    },
+    {
+      "productId": "123",
+      "title": "Android phone",
+      "brand": "Redmi12",
+      "price": "12,000",
+      "description": "phone",
+      "thumbnail": "https://www.amazon.in/Redmi-Pastel-Blue-4GB-128GB/dp/B0C9JD8324/ref=asc_df_B0C9JD8324/?tag=googleshopdes-21&linkCode=df0&hvadid=666255945735&hvpos=&hvnetw=g&hvrand=3838197713059773555&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9152657&hvtargid=pla-2194803070030&gclid=Cj0KCQjwj5mpBhDJARIsAOVjBdpjTxZpdXrjixX56MYtpUnMLGAjdDX1rkyWZCKm-psiiSRRgr1UJx8aAhsYEALw_wcB&th=1",
+      "id": 10
+    },
+    {
+      "productId": "123",
+      "title": "Android phone",
+      "brand": "Redmi12",
+      "price": "12,000",
+      "description": "phone",
+      "thumbnail": "https://www.mi.com/in/phone/",
+      "id": 11
+    },
+    {
+      "productId": "123",
+      "title": "Android phone",
+      "brand": "Redmi12",
+      "price": "12,000",
+      "description": "phone",
+      "thumbnail": "data:image/jpeg;base64,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",
+      "id": 12
+    },
+    {
+      "productId": "123",
+      "title": "phone",
+      "brand": "Redmi 12",
+      "price": "12000",
+      "description": "redmi12 phone",
+      "thumbnail": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mi.com%2Fin%2Fproduct%2Fredmi-12-5g%2F&psig=AOvVaw022o0KEGoNomIjKzxFtTMF&ust=1697173220600000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDV2ojd74EDFQAAAAAdAAAAABAE",
+      "id": 13
+    },
+    {
+      "productId": "123",
+      "title": "phone",
+      "brand": "Redmi 12",
+      "price": "12000",
+      "description": "redmi12 phone",
+      "thumbnail": "https://www.mi.com/in/product/redmi-12-5g/",
+      "id": 14
+    }
+  ]
+}

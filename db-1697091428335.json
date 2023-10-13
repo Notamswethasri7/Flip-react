@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "productId": "1",
+      "title": "iphone",
+      "brand": "apple",
+      "price": "100000",
+      "description": "an apple phone",
+      "thumbnail": "https://m.media-amazon.com/images/I/51rHstLKx4L.AC_SS300.jpg",
+      "id": 1
+    },
+    {
+      "productId": "1",
+      "title": "iphone",
+      "brand": "apple",
+      "price": "100000",
+      "description": "an apple phone",
+      "thumbnail": "https://m.media-amazon.com/images/I/51rHstLKx4L.AC_SS300.jpg",
+      "id": 2
+    },
+    {
+      "productId": "123",
+      "title": "phone",
+      "brand": "redmi",
+      "price": "120000",
+      "description": "phone",
+      "thumbnail": "https://m.media-amazon.com/images/I/41QssaE9gfL._SX300_SY300_QL70_FMwebp_.jpg",
+      "id": 3
+    },
+    {
+      "productId": "425",
+      "title": "Laptop",
+      "brand": "Asus",
+      "price": "39,990",
+      "description": "Laptop",
+      "thumbnail": "https://m.media-amazon.com/images/I/41LHrD7OHVL._SX300_SY300_QL70_FMwebp_.jpg",
+      "id": 4
+    },
+    {
+      "productId": "425",
+      "title": "Laptop",
+      "brand": "Asus",
+      "price": "39,990",
+      "description": "Laptop",
+      "thumbnail": "https://m.media-amazon.com/images/I/41LHrD7OHVL._SX300_SY300_QL70_FMwebp_.jpg",
+      "id": 5
+    },
+    {
+      "productId": "425",
+      "title": "Laptop",
+      "brand": "Asus",
+      "price": "39,990",
+      "description": "Laptop",
+      "thumbnail": "https://m.media-amazon.com/images/I/41LHrD7OHVL._SX300_SY300_QL70_FMwebp_.jpg",
+      "id": 6
+    },
+    {
+      "productId": "425",
+      "title": "Laptop",
+      "brand": "Asus",
+      "price": "39,990",
+      "description": "Laptop",
+      "thumbnail": "https://m.media-amazon.com/images/I/41LHrD7OHVL._SX300_SY300_QL70_FMwebp_.jpg",
+      "id": 7
+    }
+  ]
+}
